@@ -13,7 +13,7 @@ namespace Interaction
         /// </summary>
         private static class Constants
         {
-            private const int EngineVersion = 23;
+            private const int EngineVersion = 24;
             public static readonly string Engine = $"Autodesk.Inventor+{EngineVersion}";
 
             public const string Description = "PUT DESCRIPTION HERE";
